@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.23
+Name: healthmanager
+Formal-Name: Health manager
+App-ID: com.example.healthmanager.healthmanager
+Version: 0.0.1
+Home-page: https://healthmanager.example.com/healthmanager
+Download-URL: https://healthmanager.example.com/healthmanager
+Author: Elisa Rytter
+Author-email: RytterElisa@gmail.com
+Summary: An app for improving your health
